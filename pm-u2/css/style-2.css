@@ -11531,6 +11531,13 @@ span.doctorcaption {
   height: 283px;*/
   margin: 0px auto;
 }
+.circleF0DDCAnewoffer{
+  border-radius: 100%;
+  background: #f0ddca;
+  width: 235px;
+  height: 235px;
+  margin: 0px auto;
+}
 .circleF0DDCA img{
   max-width: 100%;
   width: 80%;
@@ -14099,6 +14106,13 @@ span.money-order{
 .circleF0DDCA{
   width: 253px;
   height:253px
+}
+.circleF0DDCAnewoffer{
+  border-radius: 100%;
+  background: #f0ddca;
+  width: 235px;
+  height: 235px;
+  margin: 0px auto;
 }
 .circleF0DDCA img{
   width: 250px;

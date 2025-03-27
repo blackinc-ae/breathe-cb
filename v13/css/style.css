@@ -127,6 +127,13 @@ body {
   top: 10px;
 }
 
+.circleF0DDCAnewoffer{
+  border-radius: 100%;
+  background: #e9baa8;
+  width: 235px;
+  height: 235px;
+  margin: 0px auto;
+}
 /*best value section*/
 
 .best-value {

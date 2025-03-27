@@ -4164,7 +4164,13 @@ strike {
   height: 283px;
   margin: 0px auto;
 }
-
+.circleF0DDCAnewoffer{
+  border-radius: 100%;
+  background: #f0ddca;
+  width: 235px;
+  height: 235px;
+  margin: 0px auto;
+}
 .circleEABBA7 {
   border-radius: 100%;
   background: #eabba7;
